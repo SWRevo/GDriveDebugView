@@ -1,0 +1,3 @@
+include ':gdrivedebugview'
+include ':app'
+rootProject.name = "GDriveDebugView"

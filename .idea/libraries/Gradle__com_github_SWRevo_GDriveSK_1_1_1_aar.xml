@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.SWRevo:GDriveSK:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f456dd6cc0d7396baab7036eb303814f/jetified-GDriveSK-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f456dd6cc0d7396baab7036eb303814f/jetified-GDriveSK-1.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f456dd6cc0d7396baab7036eb303814f/jetified-GDriveSK-1.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.SWRevo/GDriveSK/1.1.1/e0d86dd341a17e652b64060088c2bff99a6d2dd8/GDriveSK-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

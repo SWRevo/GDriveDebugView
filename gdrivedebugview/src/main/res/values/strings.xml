@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GDriveDebugLib</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="gdv_hello_blank_fragment">Hello blank fragment</string>
+    <string name="gdv_create_folder">Create Folder</string>
+    <string name="gdv_enter_folder_name">Enter folder name</string>
+    <string name="gdv_cancel_common">Cancel</string>
+    <string name="gdv_create_common">Create</string>
+    <string name="gdv_download_common">Download</string>
+    <string name="gdv_delete_common">Delete</string>
+    <string name="gdv_upload_file">Upload file</string>
+</resources>
